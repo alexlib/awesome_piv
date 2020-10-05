@@ -1,5 +1,6 @@
-# awesome_piv
+# awesome PIV
 Not all-inclusive list of repositories related to PIV (particle image velocimetry) to learn from. Please send me pull requests and raise issues.
+![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 ## PIV pre-processing
 1. 
