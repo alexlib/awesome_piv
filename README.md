@@ -1,7 +1,8 @@
 <div align="center">
 
 # Awesome PIV
-[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome#readme)
+![CI](https://github.com/lento234/awesome_piv/workflows/CI/badge.svg)
 
 
 A curated list of repositories related to PIV (particle image velocimetry). 
@@ -29,7 +30,7 @@ A curated list of repositories related to PIV (particle image velocimetry).
 ## PIV analysis (Python, Matlab)
 
 - [OpenPIV /
-openpiv-python](http://github.com/openpiv/openpiv-python): OpenPIV consists in a Python and Cython modules for scripting and executing the analysis of a set of PIV image pairs. 
+openpiv-python](https://github.com/openpiv/openpiv-python): OpenPIV consists in a Python and Cython modules for scripting and executing the analysis of a set of PIV image pairs. 
 - [jonnyhigham /
 PTVResearch](https://github.com/jonnyhigham/PTVResearch): Robust particle tracking for all types of research applications (Lucas Kanade)
 - [MattEdwards94 /
@@ -46,7 +47,7 @@ PIV](https://github.com/forughi/PIV): A flexible and hackable Particle Image Vel
 - [kemeyer /
 par2vel](https://github.com/kemeyer/par2vel): Par2vel is a python toolbox for doing Particle Image Velocimetry (PIV). It is aimed for research and education. (educational)
 - [jruebsam /
-pypiv](https://github.com/jr7/pypiv): PyPIV is a python library for Particle Image Velocimetry (PIV), including pre and postprocessing functions. (great copy of the Matlab single-pixel package)
+pypiv](https://github.com/jruebsam/pypiv): PyPIV is a python library for Particle Image Velocimetry (PIV), including pre and postprocessing functions. (great copy of the Matlab single-pixel package)
 
 ## Post-processing
 
@@ -56,7 +57,7 @@ pypiv](https://github.com/jr7/pypiv): PyPIV is a python library for Particle Ima
 - https://github.com/OpenPIV/openpiv-spatial-analysis-toolbox (GUI)
 - https://github.com/philippemiron/piv-analysis (C++, Tecplot)
 - https://github.com/hujc91/PyPostPiv
-- https://github.com/ronshnapp/vecpy -> see http://github.com/alexlib/pivpy
+- https://github.com/ronshnapp/vecpy -> see https://github.com/alexlib/pivpy
 - https://github.com/fabrylab/pyTFM (tracking force microscopy)
 - https://github.com/rplab/Ganz-Baker-Image-Velocimetry-Analysis (PIVLab postprocessing)
 
@@ -73,9 +74,9 @@ pypiv](https://github.com/jr7/pypiv): PyPIV is a python library for Particle Ima
 ## Matlab
 
 - https://github.com/psellapp/USC_PIV
-- http://github.com/openpiv/openpiv-matlab
+- https://github.com/openpiv/openpiv-matlab
 - https://github.com/ufo2mstar/nu_piv_algorithm (genetic algorithm, claims to be better than FFT)
-- http://github.com/nnmrec/bfield_p4iv (extension of MATPIV)
+- https://github.com/nnmrec/bfield_p4iv (extension of MATPIV)
 - https://github.com/MaxVWDV/glacier-image-velocimetry
 
 
