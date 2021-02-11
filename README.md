@@ -76,7 +76,8 @@ pypiv](https://github.com/jruebsam/pypiv): PyPIV is a python library for Particl
 - https://github.com/psellapp/USC_PIV
 - https://github.com/openpiv/openpiv-matlab
 - https://github.com/ufo2mstar/nu_piv_algorithm (genetic algorithm, claims to be better than FFT)
-- https://github.com/nnmrec/bfield_p4iv (extension of MATPIV)
+- [nnmrec /
+bfield_piv](https://github.com/nnmrec/bfield_piv): This code utilizes the MatPIV toolbox to perform the PIV calculations of velocity field. (extension of MATPIV)
 - https://github.com/MaxVWDV/glacier-image-velocimetry
 
 
