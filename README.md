@@ -12,18 +12,13 @@ A curated list of repositories related to PIV (particle image velocimetry).
 </div>
 
 - [Awesome PIV](#awesome-piv)
-  - [1. PIV pre-processing](#1-piv-pre-processing)
-  - [2. PIV analysis](#2-piv-analysis)
-  - [3. Particle tracking](#3-particle-tracking)
-  - [4. Post-processing](#4-post-processing)
-    - [Python](#python)
-  - [C/C++](#cc)
-  - [Matlab](#matlab)
+  - [1. Synthetic image generation for PIV](#1-synthetic-image-generation-for-piv)
+  - [2. PIV pre-processing](#2-piv-pre-processing)
+  - [3. PIV analysis](#3-piv-analysis)
+  - [4. Particle tracking](#4-particle-tracking)
+  - [5. Post-processing](#5-post-processing)
+  - [6. Neural Networks, Machine learning, AI](#6-neural-networks-machine-learning-ai)
   - [Unsorted](#unsorted)
-  - [Tracking](#tracking)
-  - [Neural Networks, Machine learning, AI](#neural-networks-machine-learning-ai)
-  - [Synthetic image generation for PIV](#synthetic-image-generation-for-piv)
-  - [Java](#java)
 
 --------------------------------
 
