@@ -18,6 +18,8 @@ A curated list of repositories related to PIV (particle image velocimetry).
   - [4. Particle tracking](#4-particle-tracking)
   - [5. Post-processing](#5-post-processing)
   - [6. Neural Networks, Machine learning, AI](#6-neural-networks-machine-learning-ai)
+  - [7. Dataset](#7-dataset)
+  - [8. Visualization](#8-visualization)
   - [Unsorted](#unsorted)
 
 --------------------------------
@@ -29,7 +31,8 @@ A curated list of repositories related to PIV (particle image velocimetry).
 
 ## 2. PIV pre-processing
 
-
+- [scikit-image / scikit-image](https://github.com/scikit-image/scikit-image): Image processing in Python ![python]
+- [opencv / opencv-python](https://github.com/opencv/opencv-python):  Open Source Computer Vision Library ![python]
 
 ## 3. PIV analysis
 
@@ -60,6 +63,7 @@ A curated list of repositories related to PIV (particle image velocimetry).
 - [jorishey1234 / tractrac](https://github.com/jorishey1234/tractrac): TracTrac: Massive Parallalized Particle Tracking Velocimetry Software ![matlab] ![python]
 - [Part2Track / Part2Track](https://github.com/Part2Track/Part2Track): A MATLAB package for double frame and time resolved Particle Tracking Velocimetry ![matlab]
 - [adavradou / Particle-Tracking-Velocimetry](https://github.com/adavradou/Particle-Tracking-Velocimetry) (extends http://site.physics.georgetown.edu/matlab/code.html) ![matlab]
+- [JHU-NI-LAB / OpenLPT_Shake-The-Box](https://github.com/JHU-NI-LAB/OpenLPT_Shake-The-Box): Open-source C++ code for Shake-the-box, particle tracking algorithm ![cpp] ![matlab]
 
 
 ## 5. Post-processing
@@ -73,12 +77,27 @@ A curated list of repositories related to PIV (particle image velocimetry).
 - [ronshnapp / vecpy](https://github.com/ronshnapp/vecpy): Python based package for manipulation and presentation of PIV (particle image velocimetry) results. (See https://github.com/alexlib/pivpy) ![python]
 - [fabrylab / pyTFM](https://github.com/fabrylab/pyTFM): Two dimensional particle image velocimetry, traction force microscopy and monolayer stress microscopy (tracking force microscopy) ![python]
 - [rplab / Ganz-Baker-Image-Velocimetry-Analysis](https://github.com/rplab/Ganz-Baker-Image-Velocimetry-Analysis): A set of Matlab functions for analyzing image velocimetry data on biological motility (PIVLab postprocessing) ![matlab] ![cpp] ![python]
-
+- [mathLab / PyDMD](https://github.com/mathLab/PyDMD):  Python Dynamic Mode Decomposition ![python]
 
 ## 6. Neural Networks, Machine learning, AI
 
+- [yongleex / PIV-DCNN](https://github.com/yongleex/PIV-DCNN): Perform PIV image pair match using deep conv neural network ![matlab] ![cpp]
 - [shengzesnail / PIV-LiteFlowNet-en](https://github.com/shengzesnail/PIV-LiteFlowNet-en): Particle image velocimetry via a deep neural network (LiteFlowNet) ![cpp] ![python] ![matlab]
 - [erizmr / UnLiteFlowNet-PIV](https://github.com/erizmr/UnLiteFlowNet-PIV): Unsupervised learning of Particle Image Velocimetry. (ISC 2020) ![python]
+
+
+## 7. Dataset
+
+- [idies / pyJHTDB](https://github.com/idies/pyJHTDB):  Python wrapper for the Johns Hopkins turbulence database library ![python]
+- [shengzesnail / PIV_dataset](https://github.com/shengzesnail/PIV_dataset):  PIV dataset ![matlab]
+
+## 8. Visualization
+
+- [matplotlib / matplotlib](https://github.com/matplotlib/matplotlib): matplotlib: plotting with Python ![python]
+- [K3D-tools / K3D-jupyter](https://github.com/K3D-tools/K3D-jupyter): K3D lets you create 3D plots backed by WebGL with high-level API (surfaces, isosurfaces, voxels, mesh, cloud points, vtk objects, volume renderer, colormaps, etc). ![python] ![javascript]
+- [QuantStack / ipygany](https://github.com/QuantStack/ipygany):  3-D Scientific Visualization in the Jupyter Notebook ![python]
+- [InsightSoftwareConsortium / itkwidgets](https://github.com/InsightSoftwareConsortium/itkwidgets):  Interactive Jupyter widgets to visualize images, point sets, and meshes in 2D and 3D ![python] ![javascript]
+- [NVIDIA / ipyparaview](https://github.com/NVIDIA/ipyparaview):  iPython widget for server-side ParaView rendering in Jupyter. ![python] ![javascript]
 
 
 ## Unsorted
