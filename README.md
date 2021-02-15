@@ -59,7 +59,7 @@ A curated list of repositories related to PIV (particle image velocimetry).
 - [Kristian J. Sveen / MatPIV](https://www.mn.uio.no/math/english/people/aca/jks/matpiv/): MatPIV ![matlab]
 - [William Thielicke / PIVLab](https://github.com/shrediquette/pivlab) PIVLab ![matlab]
 - [
-Gerber van der Graaf / GPIV](https://gpiv.sourceforge.net) GPIV ![cpp]
+Gerber van der Graaf / GPIV](http://gpiv.sourceforge.net) GPIV ![cpp]
 
 
 ## 4. Particle tracking
