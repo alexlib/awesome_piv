@@ -56,6 +56,10 @@ A curated list of repositories related to PIV (particle image velocimetry).
 - [MaxVWDV / glacier-image-velocimetry](https://github.com/MaxVWDV/glacier-image-velocimetry):  GUI based toolbox for calculating glacier surface velocities from satellite imagery. ![matlab]
 - [eguvep / jpiv](https://github.com/eguvep/jpiv):  JPIV – Particle Image Velocimetry (PIV) evaluation software. ![java]
 - [Tianshu-Liu / OpenOpticalFlow](https://github.com/Tianshu-Liu/OpenOpticalFlow): OpenOpticalFLow PIV ![matlab]
+- [Kristian J. Sveen / MatPIV](https://www.mn.uio.no/math/english/people/aca/jks/matpiv/): MatPIV ![matlab]
+- [William Thielicke / PIVLab](https://github.com/shrediquette/pivlab) PIVLab ![matlab]
+- [
+Gerber van der Graaf / GPIV](https://gpiv.sourceforge.net) GPIV ![c]
 
 
 ## 4. Particle tracking
