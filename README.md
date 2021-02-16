@@ -60,7 +60,7 @@ A curated list of repositories related to PIV (particle image velocimetry).
 - [William Thielicke / PIVLab](https://github.com/shrediquette/pivlab) PIVLab ![matlab]
 - [
 Gerber van der Graaf / GPIV](http://gpiv.sourceforge.net) GPIV ![cpp]
-
+- [fluiddyn / fluidimage](https://foss.heptapod.net/fluiddyn/fluidimage/): Asynchronously parallelized libre framework for pre-processing, velocimetry and post-processing of large series of images. ![python]
 
 ## 4. Particle tracking
 - [jonnyhigham / PTVResearch](https://github.com/jonnyhigham/PTVResearch): Robust particle tracking for all types of research applications (Lucas Kanade) ![matlab]
