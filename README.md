@@ -2,7 +2,7 @@
 
 # Awesome PIV
 [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome#readme)
-![CI](https://github.com/lento234/awesome_piv/workflows/CI/badge.svg)
+![CI](https://github.com/alexlib/awesome_piv/workflows/CI/badge.svg)
 
 
 A curated list of repositories related to PIV (particle image velocimetry). 
