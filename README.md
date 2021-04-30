@@ -85,7 +85,7 @@ Gerber van der Graaf / GPIV](http://gpiv.sourceforge.net) GPIV ![cpp]
 - [fabrylab / pyTFM](https://github.com/fabrylab/pyTFM): Two dimensional particle image velocimetry, traction force microscopy and monolayer stress microscopy (tracking force microscopy) ![python]
 - [rplab / Ganz-Baker-Image-Velocimetry-Analysis](https://github.com/rplab/Ganz-Baker-Image-Velocimetry-Analysis): A set of Matlab functions for analyzing image velocimetry data on biological motility (PIVLab postprocessing) ![matlab] ![cpp] ![python]
 - [mathLab / PyDMD](https://github.com/mathLab/PyDMD):  Python Dynamic Mode Decomposition ![python]
-- [Moisy / PIVMAT](https://www.mathworks.com/matlabcentral/fileexchange/10902-pivmat-4-10) Matlab toolbox for post-processing PIV data ![matlab]
+- [Moisy / PIVMAT](http://www.fast.u-psud.fr/pivmat/) Matlab toolbox for post-processing PIV data ![matlab]
 - [alexlib / pivpy](https://github.com/alexlib/pivpy): PIVPy - Python clone of PIVMAT ![python]
 
 ## 6. Neural Networks, Machine learning, AI
